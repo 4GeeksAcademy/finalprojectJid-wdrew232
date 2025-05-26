@@ -12,7 +12,7 @@ Login
 Profile View
 ![Screenshot 2025-05-26 095442 profile](https://github.com/user-attachments/assets/27ba209f-7948-44ae-8420-1d71ed380697)
 
-MAin Page 
+Main Page 
 ![Screenshot 2025-05-26 095530 main page](https://github.com/user-attachments/assets/9ada0a7f-dcfa-4d67-ba1e-9eaa9de1e22a)
 
 Customize
